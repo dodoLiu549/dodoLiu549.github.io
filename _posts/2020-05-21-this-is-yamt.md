@@ -1,5 +1,5 @@
 ---
-title:Dodo
+title: Dodo
 layout: post
 categories: [Typography, Markdown, Tips]
 image: /assets/img/logo.jpg
