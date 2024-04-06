@@ -1,9 +1,9 @@
 ---
-title: Lorem Ipsum
+title: Rebecca
 layout: post
 categories: [Tips, Markdown]
 image: /assets/img/Rebecca.JPG
-description: "Lorem Ipsum"
+description: "Rebecca"
 ---
 
 这是dodo的女朋友
