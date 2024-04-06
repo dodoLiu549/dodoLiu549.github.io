@@ -2,7 +2,7 @@
 title: Lorem Ipsum
 layout: post
 categories: [Tips, Markdown]
-image: /assets/img/oranges.jpg
+image: /assets/img/Rebecca.JPG
 description: "Lorem Ipsum"
 ---
 
